@@ -1,0 +1,19 @@
+{
+  "name": "data-scrapper-amazon-api",
+  "version": "1.0.0",
+  "description": "Express JS based NODE API for amazon data",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
